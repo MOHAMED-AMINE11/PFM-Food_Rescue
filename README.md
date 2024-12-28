@@ -1,6 +1,6 @@
 # FoodRescue: Bridging the Gap Between Food Surplus and Need
 
-![Architecture](https://github.com/MOHAMED-AMINE11/PFM-Food_Rescue/issues/1)
+![Software Architecture](https://github.com/user-attachments/assets/72415312-164f-4d38-8015-eaec3b2812c3)
 
 FoodRescue is an innovative mobile application designed to address the critical challenge of food waste while combating food insecurity through efficient resource redistribution and community engagement.
 
